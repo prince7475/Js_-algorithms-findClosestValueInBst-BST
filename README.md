@@ -15,7 +15,8 @@ Sample input:
 
 To Test : "npm test'
 
-
+Average: 0 (log(n)) time | 0 (1) space - where n is the number of nodes in the BST
+Worst: 0 (n) time | 0 (1) space - where n is the number of nodes in the BST
 
 
 
