@@ -13,7 +13,7 @@ Sample input:
 1                    14
 
 
-
+To Test : "npm test'
 
 
 
